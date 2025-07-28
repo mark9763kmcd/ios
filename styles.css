@@ -17,6 +17,17 @@ body {
   height: 100vh;
 }
 
+a {
+  font-style: normal;
+  font-weight: 400;
+  cursor: pointer;
+  color: #ffffff;
+  font-weight: 500;
+}
+a, a:hover {
+  text-decoration: none;
+}
+
 /* Top Navigation Bar */
 .top-navbar {
   background: #1d1d1f;
